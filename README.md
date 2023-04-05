@@ -11,7 +11,7 @@ When I'm not coding, you can find me reading history books, lifting weights, or 
 
 ## Tech Stack
 
-here is what I have been learning recently:
+Here is what I have been learning recently:
 
 ## Languages:
 
@@ -38,3 +38,12 @@ here is what I have been learning recently:
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
 </div>
+
+# What I am currently learning:
+- Data Structures and Algorithms
+- MySQL, MongoDB
+
+
+# Get in Touch
+[LinkedIn](https://www.linkedin.com/in/gracescizma/)
+[WellFound/AngelList](https://wellfound.com/u/grace-cizma)
