@@ -1,17 +1,22 @@
-# Grace Cizma
+# Hi there! My name is Grace, and I'm a software developer with a passion for history, technology, and logic puzzles.
 
-Hello! I'm a new developer excited to share my projects and experience with the world. Here are a few highlights:
+I studied history in college and developed a deep appreciation for the complexity and interconnectedness of the world. After graduation, I worked in IT support and learned how to troubleshoot and solve technical problems. I found myself drawn to the logical and puzzle-like nature of the work, and started tinkering with coding on the side.
 
-Skills
+As I delved deeper into programming, I discovered a whole new world of creative problem-solving and endless possibilities. I was hooked. I taught myself new languages and frameworks, and attended App Academy to round out my knowledge and become a full-stack developer.
 
-    Languages: JavaScript, Python, SQL, HTML/CSS
-    Frameworks: React, Flask, Express, Sequelize, SQLAlchemy
-    Other: Git, RESTful API design, Agile development, Object-Oriented Programming
+Now, I get to combine my love of history and technology in my work, building software that helps people understand and interact with complex information in new and innovative ways. Whether I'm designing data visualizations, building web applications, or automating repetitive tasks, I'm always striving to create elegant, efficient, and user-friendly solutions.
 
-About Me
+When I'm not coding, you can find me reading history books, lifting weights, or exploring a new world in a video game. I'm always looking for new challenges and adventures, both in my personal and professional life. If you're interested in collaborating on a project or just want to chat about history or tech, feel free to reach out!
 
-    I'm passionate about technology and love exploring new programming languages and frameworks.
-    In my free time, I enjoy weight lifting, playing video games, and trying new foods.
-    I'm always looking for opportunities to learn and grow as a developer, and I'm excited to see where this career takes me.
 
-Thanks for checking out my page! Feel free to contact me at gracecizma@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/gracescizma/).
+## Tech Stack
+
+here is what I have been learning recently:
+
+###Languages:
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+
+### Backend:
+
+
+### Frontend:
