@@ -6,7 +6,6 @@ Skills
 
     Languages: JavaScript, Python, SQL, HTML/CSS
     Frameworks: React, Flask, Express, Sequelize, SQLAlchemy
-    Databases: PostgreSQL
     Other: Git, RESTful API design, Agile development, Object-Oriented Programming
 
 About Me
