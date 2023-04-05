@@ -15,4 +15,4 @@ About Me
     In my free time, I enjoy weight lifting, playing video games, and trying new foods.
     I'm always looking for opportunities to learn and grow as a developer, and I'm excited to see where this career takes me.
 
-Thanks for checking out my page! Feel free to contact me at gracecizma@gmail.com or connect with me on [LinkedIn]https://www.linkedin.com/in/gracescizma/.
+Thanks for checking out my page! Feel free to contact me at gracecizma@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/gracescizma/).
