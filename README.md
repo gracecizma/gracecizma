@@ -52,4 +52,4 @@ Here is what I have been learning recently:
 
 
 ## My Stats
-[![Grace's GitHub stats](https://github-readme-stats.vercel.app/api?username=gracecizma)](https://github.com/gracecizma/github-readme-stats)
+[![Grace's GitHub stats](https://github-readme-stats.vercel.app/api?username=gracecizma&theme=transparent)](https://github.com/gracecizma/github-readme-stats)
