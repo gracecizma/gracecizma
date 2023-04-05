@@ -45,3 +45,7 @@ Here is what I have been learning recently:
 ## Get in Touch:
 [LinkedIn](https://www.linkedin.com/in/gracescizma/)
 [WellFound/AngelList](https://wellfound.com/u/grace-cizma)
+
+
+## My Stats
+https://github-readme-streak-stats.herokuapp.com/?user=gracecizma&theme=dark&background=000000
