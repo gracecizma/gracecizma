@@ -51,4 +51,4 @@ Here is what I have been learning recently:
 
 
 ## My Stats
-[![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=gracecizma&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Grace's GitHub stats](https://github-readme-stats.vercel.app/api?username=gracecizma)](https://github.com/gracecizma/github-readme-stats)
