@@ -1,16 +1,18 @@
-### Hi there 👋
+# Grace Cizma
 
-<!--
-**gracecizma/gracecizma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm a new developer excited to share my projects and experience with the world. Here are a few highlights:
 
-Here are some ideas to get you started:
+Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    Languages: JavaScript, Python, SQL, HTML/CSS
+    Frameworks: React, Flask, Express, Sequelize, SQLAlchemy
+    Databases: PostgreSQL
+    Other: Git, RESTful API design, Agile development, Object-Oriented Programming
+
+About Me
+
+    I'm passionate about technology and love exploring new programming languages and frameworks.
+    In my free time, I enjoy weight lifting, playing video games, and trying new foods.
+    I'm always looking for opportunities to learn and grow as a developer, and I'm excited to see where this career takes me.
+
+Thanks for checking out my page! Feel free to contact me at gracecizma@gmail.com or connect with me on [LinkedIn]https://www.linkedin.com/in/gracescizma/.
