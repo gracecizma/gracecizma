@@ -1,4 +1,4 @@
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=gotham)
 
 # Hi there! My name is Grace, and I'm a software developer with a passion for history, technology, and logic puzzles.
 
