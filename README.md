@@ -48,4 +48,4 @@ Here is what I have been learning recently:
 
 
 ## My Stats
-https://github-readme-streak-stats.herokuapp.com/?user=gracecizma&theme=dark&background=000000
+[![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=gracecizma&theme=dark&background=000000)](https://git.io/streak-stats)
