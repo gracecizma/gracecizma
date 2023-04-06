@@ -43,7 +43,7 @@ Here is what I have been learning recently:
 
 ## What I am currently learning:
 - Data Structures and Algorithms
-- MySQL, MongoDB
+- MySQL, C#
 
 
 ## Get in Touch:
