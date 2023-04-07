@@ -42,7 +42,7 @@ Here is what I have been learning recently:
 </div>
 
 ## What I am currently learning:
-- Data Structures and Algorithms
+- Go
 - MySQL, C#
 
 
