@@ -42,8 +42,12 @@ Here is what I have been learning recently:
 </div>
 
 ## What I am currently learning:
-- Go
-- MySQL, C#
+
+<div>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" title="Go" alt="Go" />&nbsp;
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" title="MySQL" alt="MySQL" />&nbsp;
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" title="C#" alt="C#" />&nbsp;
+</div>
 
 
 ## Get in Touch:
